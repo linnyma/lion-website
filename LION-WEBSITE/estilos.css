@@ -1,0 +1,38 @@
+body{
+    background-color: #fffaca;
+    color: #d77e32;
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    color: #ae6318;
+    font-size: 25px;
+}
+
+/*Esto es un comentario*/
+
+h1 {
+    color: #bc471b;
+}
+ 
+img {
+    border-style:ridge;
+    border-color: #bc471b;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.img1 {
+    height: 320px;
+    width: 450px;
+}
+
+.img2 {
+    height: 320px;
+    width: 500px;
+}
+
+a small {
+    color: #ae6318;
+}
